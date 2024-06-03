@@ -1,6 +1,7 @@
 Методи проектування та моделювання безпілотних систем
 Кущ О.І. 359
-Лабораторна робота 1 -
+Лабораторна робота 1 - https://docs.google.com/document/d/1tAoO-I7QFoo0wFrljtO93Wb2v8h11zkK1vMIapJ_z8I/edit?usp=sharing
+                       https://drive.google.com/file/d/1kcKrppKBgIP6xskUoFVBszVMNkWbuBGq/view?usp=sharing
 Лабораторна робота 2 -
 Лабораторна робота 3 -
 Лабораторна робота 4 -
